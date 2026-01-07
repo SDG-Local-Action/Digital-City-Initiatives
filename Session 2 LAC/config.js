@@ -3,8 +3,6 @@ var config = {
     accessToken: 'pk.eyJ1IjoiY2hvdy1ob25nLWtpdSIsImEiOiJjbWprNXF0N2kwdWx0M2RweTJ1NnhsNmtyIn0.4742XaqjDE5TXj-3_V7beQ',
     showMarkers: false,
     theme: 'light',
-    title: 'In Latin America and the Caribbean,',
-    subtitle: 'cities are showcasing how digital tools are creating better livelihoods.',
     chapters: [
         {
             id: 'ch1',
